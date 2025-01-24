@@ -1,43 +1,38 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kara Kanetis",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "picture": "https://github.com/karakanetis.png",
+    "email": "kkanetis@hawaii.edu",
+    "phone": "(858) 519-2121",
+    "website": "https://karakanetis.github.io",
+    "summary": "Aloha! I'm a double major B.S. Astrophysics and B.A. in Computer Science with a focus on Earth and Planetary Exploration Technology. My anticipated graduation date is May 2026.",
+    "location": { "address": "725 Piikoi Street", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "karakanetis", "url": "http://github.com/karakanetis" },
+      { "network": "instagram", "username": "kara.beth3", "url": "http://instagram.com/kara.beth3" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Astronomy" },
+    { "name": "3D Model Design" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "Python", "C++", "Java", "Javascript"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Git/GitHub" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Astrophysics and Computer Science (expected Spring, 2026)",
+      "studyType": "B.S & B.A.",
+      "startDate": "Fall 2022",
       "endDate": "Present",
       "courses": [
       ]
