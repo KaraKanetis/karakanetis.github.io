@@ -11,7 +11,7 @@ labels:
   - TypeScript
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/python-typescript.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/python-typescript.png">
 
 # From Python to TypeScript: My Journey with TypeScript and Athletic Software Engineering
 
