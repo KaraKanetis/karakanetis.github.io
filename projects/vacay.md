@@ -16,7 +16,9 @@ summary: "Star Fleet Deluxe is a war game where the Krellan Empire seeks revenge
 
 
 <img width="500px" class="rounded float-start pe-4" src="../img/KlagarIMG.png">
-
+<p style="text-align: center; font-size: 0.8em;">
+Note: Klagar Class Ship 3D Model. First design produced.
+</p>
 
 
 Starfleet Deluxe is a project I've been working on with a team for 8 months now. Originally I was assisting in upgrading the original Starfleet into its new version to be released soon. 6 months ago I was moved to lead the 3D model and design process for the Kickstarter. As of January 2024, we've completed 8 models and have begun manufacutring and 3D printing them to prepare for the Kickstarter launch. Now, I manage interns who join my project and help them improve their own 3D modeling skills. 
