@@ -10,8 +10,8 @@
     "location": { "address": "725 Piikoi Street", "postalCode": "96814", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "karakanetis", "url": "http://github.com/karakanetis" },
-      { "network": "instagram", "username": "kara.beth3", "url": "http://instagram.com/kara.beth3" }
-      { "network": "linkedin", "url": "www.linkedin.com/in/karakanetis642" }
+      { "network": "instagram", "username": "kara.beth3", "url": "http://instagram.com/kara.beth3" },
+      { "network": "linkedin", "url": "www.linkedin.com/in/karakanetis642" },
       { "network": "email", "url": "kkanetis@hawaii.edu" },
     ]
   },
