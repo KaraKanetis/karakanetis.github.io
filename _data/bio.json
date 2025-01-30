@@ -40,31 +40,31 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Hawaii Space Flight Lab: Interstel",
+      "position": "Programming Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-03-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Programming intern head of 3D modeling and design",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Creates 3D CAD models for videogame kick starter",
+        "Assist in other projects for iCosmos and MOST as needed"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawaii Space Grant Consortium",
+      "position": "Research Intern",
+      "website": "https://www.spacegrant.hawaii.edu",
+      "startDate": "2025-01-01",
+      "endDate": "2025-06-30",
+      "summary": "Awarded research grant to study carbonacious condrites in meteorites",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Study minerology in meteorites",
+        "_____"
       ]
     }
   ],
-  "volunteer": [
+ <!--- "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -75,7 +75,7 @@
       "highlights": [
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
-      ]
+      ]---!>
     },
     {
       "organization": "",
