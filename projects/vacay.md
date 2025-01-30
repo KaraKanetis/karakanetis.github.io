@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/vacay/vacay-square.png
 title: "Interstel"
-date: 2025
+date: "2025"
 published: true
 labels:
   - C++
@@ -13,6 +13,7 @@ labels:
   - Starfleet Deluxe
 summary: "Star Fleet Deluxe is a war game where the Krellan Empire seeks revenge against the United Galactic Alliance for past defeat."
 ---
+
 
 
 
