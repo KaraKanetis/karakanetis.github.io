@@ -16,7 +16,6 @@ summary: "Star Fleet Deluxe is a war game where the Krellan Empire seeks revenge
 
 
 <img width="500px" class="rounded float-start pe-4" src="../img/KlagarIMG.png">
-<p class="caption-small">3D Model of the Klagar Ship for Starfleet Deluxe</p>
 
 
 
