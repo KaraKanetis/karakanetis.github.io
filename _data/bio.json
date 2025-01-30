@@ -11,11 +11,14 @@
     "profiles": [
       { "network": "github", "username": "karakanetis", "url": "http://github.com/karakanetis" },
       { "network": "instagram", "username": "kara.beth3", "url": "http://instagram.com/kara.beth3" }
+      { "network": "linkedin", "url": "www.linkedin.com/in/karakanetis642" }
+      { "network": "email", "url": "kkanetis@hawaii.edu" }
     ]
   },
   "interests": [
     { "name": "Astronomy" },
     { "name": "3D Model Design" },
+    { "name": "Finance" },
   ],
   "skills": [
     {
