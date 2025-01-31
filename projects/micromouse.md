@@ -12,7 +12,10 @@ labels:
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
-<img src="/img/rock.png" width="200px" class="img-thumbnail">
+<div class="container-fluid">
+    <img src="/img/vacay/rock.png" class="img-fluid w-100">
+</div>
+
 
 
 
