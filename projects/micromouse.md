@@ -3,12 +3,12 @@ layout: project
 type: project
 image: img/HSGC-Logo-01-300x300.png
 title: "Micrometeorites"
-date: 2015
+date: 2025
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - meteorites
+  - microscope
+  - mineralology
 summary: "Ongoing research internship to study carbonaceous chondrites in micrometeorites."
 ---
 
