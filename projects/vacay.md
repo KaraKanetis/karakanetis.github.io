@@ -32,6 +32,6 @@ Starfleet Deluxe is a project I've been working on with a team for 8 months now.
 Each model takes around a month to complete and then an additional month for testing and small edits. Per university policy, interns are only able to work 20 hours per week, my schedule being 10 hours per week which delays the progress. However, product start to finish takes around two months. 
 
 
-On occasion, I assist with the iCosmos team on various projects to help improve the program, mostly working with the Mission Operations Support Tool (MOST). (https://www.interstel.tech/)
+On occasion, I assist with the iCosmos team on various projects to help improve the program, mostly working with the Mission Operations Support Tool (MOST). 
 
 <p>For more information, visit <a href="https://www.interstel.tech/">this website</a>.</p>
