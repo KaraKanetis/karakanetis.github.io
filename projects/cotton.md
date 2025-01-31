@@ -2,12 +2,13 @@
 layout: project
 type: project
 image: img/manoa logo.png
-title: "Cotton"
-date: 2014
+title: "CubeSat Mission"
+date: 2025
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - Cubesat
+  - Student research
+  - Hawaii Space Labratory
 summary: "As an EPS Engineer for the VIA-SEEs+ CubeSat mission, I manage the satellite’s power distribution, solar efficiency, and battery systems to ensure continuous data collection on solar energetic particles and their effects on Earth’s atmosphere."
 ---
 
