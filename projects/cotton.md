@@ -8,52 +8,14 @@ published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "As an EPS Engineer for the VIA-SEEs+ CubeSat mission, I manage the satellite’s power distribution, solar efficiency, and battery systems to ensure continuous data collection on solar energetic particles and their effects on Earth’s atmosphere."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
-To give you a flavor of the game, here is an excerpt from one run:
+The VIA-SEEs+ mission is a student-led CubeSat project designed to study how solar energetic particles (SEPs) impact Earth's atmosphere and space weather. The CubeSat, a 6U satellite, carries four different payloads—VIA, SEEs, CREPES, and AMPPS—each focused on measuring ozone depletion, charged particles, and plasma density during solar events. These measurements are crucial for predicting space weather hazards, protecting satellites, and improving atmospheric models. The data collected will help us understand how high-energy particles from the Sun interact with the mesosphere, contributing to future space missions and satellite resilience.
 
-<hr>
+As an EPS (Electrical Power System) Engineer, my role is to ensure the CubeSat's power system efficiently distributes energy to all subsystems, including the payload instruments, onboard computers, and communication systems. I work on power budgeting, making sure each payload receives enough power while preventing system overloads. This involves optimizing solar panel efficiency, battery management, and power distribution circuits to keep the CubeSat operational throughout its mission. Additionally, I help design fail-safes and contingency plans to ensure continuous data collection even under unexpected conditions.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+My work directly supports the mission by maximizing the CubeSat’s uptime and reliability. Without proper power management, the sensors and instruments wouldn’t function effectively, leading to gaps in data collection. Through my contributions, the VIA-SEEs+ CubeSat can continuously gather high-quality measurements of solar energetic particles, ozone fluctuations, and plasma interactions, furthering our understanding of how space weather influences Earth's upper atmosphere.
