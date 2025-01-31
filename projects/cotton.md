@@ -11,7 +11,6 @@ labels:
 summary: "As an EPS Engineer for the VIA-SEEs+ CubeSat mission, I manage the satellite’s power distribution, solar efficiency, and battery systems to ensure continuous data collection on solar energetic particles and their effects on Earth’s atmosphere."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 <img src="/img/crepes.png" width="200px" class="img-thumbnail">
 <img src="/img/multiple.png" width="200px" class="img-thumbnail">
 
