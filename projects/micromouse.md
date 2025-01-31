@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/HSGC-Logo-01-300x300.png
+image: img/HSGC-Logo-01-300x300.png
 title: "Micrometeorites"
 date: 2015
 published: true
