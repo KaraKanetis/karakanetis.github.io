@@ -44,6 +44,18 @@
   ],
   "work": [
     {
+      "company": "Hawaii Space Grant Consortium",
+      "position": "Research Intern",
+      "website": "https://www.spacegrant.hawaii.edu",
+      "startDate": "2025-01-01",
+      "endDate": "Present",
+      "summary": "Awarded research grant to study carbonacious condrites in meteorites",
+      "highlights": [
+        "Study minerology in meteorites",
+        "How shock changes mineral composition"        
+      ]
+    },
+    {
       "company": "Hawaii Space Flight Lab: Interstel",
       "position": "Programming Intern",
       "website": "",
@@ -52,19 +64,7 @@
       "summary": "Programming intern head of 3D modeling and design",
       "highlights": [
         "Creates 3D CAD models for videogame kick starter",
-        "Assist in other projects for iCosmos and MOST as needed"
-      ]
-    },
-    {
-      "company": "Hawaii Space Grant Consortium",
-      "position": "Research Intern",
-      "website": "https://www.spacegrant.hawaii.edu",
-      "startDate": "2025-01-01",
-      "endDate": "2025-06-30",
-      "summary": "Awarded research grant to study carbonacious condrites in meteorites",
-      "highlights": [
-        "Study minerology in meteorites",
-        "_____"
+        "Assist in other projects for iCosmos and MOST as needed"      
       ]
     }
   ],
@@ -75,6 +75,17 @@
       "startDate": "2022-08-01",
       "endDate": "Present",
       "summary": "Assists in random projects for the IfA from running their portable planetarium to working with kids"
+    },
+    {
+      "company": "Hawaii Space Grant Consortium",
+      "position": "Research Intern",
+      "website": "https://www.spacegrant.hawaii.edu",
+      "startDate": "2025-01-01",
+      "endDate": "Present",
+      "summary": "Awarded research grant to study carbonacious condrites in meteorites",
+      "highlights": [
+        "Study minerology in meteorites",
+        "How shock changes mineral composition"        
     },
     {
       "organization": "Student Activity and Program Fee Board",
