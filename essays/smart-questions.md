@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/prog.webp">
 
 Asking questions the smart way is an important skill for software engineers because it helps us get better answers and faster responses. Eric Raymond explains how being clear, doing research beforehand, and providing enough details can make a big difference when asking technical questions. On Stack Overflow, questions that are formatted better tend to get more helpful responses, whereas quick or confusing questions might get ignored or downvoted.
 
