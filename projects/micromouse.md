@@ -12,9 +12,8 @@ labels:
 summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="..https://karakanetis.github.io/img/rock.png" class="img-thumbnail" >
-</div>
+<img src="/img/rock.png" width="200px" class="img-thumbnail">
+
 
 
 As a student intern researcher, I study carbonaceous chondrite meteorites to understand how shock metamorphism, caused by high-energy impacts, affects their mineral composition. My focus is on analyzing carbonates in these meteorites to determine how impacts influence fluid movement and chemical changes in planetary materials.
