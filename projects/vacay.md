@@ -11,7 +11,7 @@ labels:
   - "iCosmos"
   - "MOST"
   - "Starfleet Deluxe"
-summary: "Star Fleet Deluxe is a war game where the Krellan Empire seeks revenge against the United Galactic Alliance for past defeat."
+summary: "Star Fleet Deluxe is a war game where the Krellan Empire seeks revenge against the United Galactic Alliance for past defeat. My job is to create 3D images of the battle ships used in the game."
 ---
 
 
