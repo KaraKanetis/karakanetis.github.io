@@ -12,8 +12,11 @@ labels:
 summary: "As an EPS Engineer for the VIA-SEEs+ CubeSat mission, I manage the satellite’s power distribution, solar efficiency, and battery systems to ensure continuous data collection on solar energetic particles and their effects on Earth’s atmosphere."
 ---
 
-<img src="/img/crepes.png" width="200px" class="img-thumbnail">
-<img src="/img/multiple.png" width="200px" class="img-thumbnail">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+    <img src="/img/multiple.png" style="width: 50%; max-height: auto;" alt="First Logo">
+    <img src="/img/crepes.png" style="width: 50%; max-height: auto;" alt="Second Logo">
+</div>
+
 
 The VIA-SEEs+ mission is a student-led CubeSat project designed to study how solar energetic particles (SEPs) impact Earth's atmosphere and space weather. The CubeSat, a 6U satellite, carries four different payloads—VIA, SEEs, CREPES, and AMPPS—each focused on measuring ozone depletion, charged particles, and plasma density during solar events. These measurements are crucial for predicting space weather hazards, protecting satellites, and improving atmospheric models. The data collected will help us understand how high-energy particles from the Sun interact with the mesosphere, contributing to future space missions and satellite resilience.
 
