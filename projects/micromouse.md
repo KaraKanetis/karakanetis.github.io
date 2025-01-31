@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: /img/KlagarIMG.png
-title: "Micromouse"
+title: "Micrometeorites"
 date: 2015
 published: true
 labels:
@@ -18,22 +18,9 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+As a student intern researcher, I study carbonaceous chondrite meteorites to understand how shock metamorphism, caused by high-energy impacts, affects their mineral composition. My focus is on analyzing carbonates in these meteorites to determine how impacts influence fluid movement and chemical changes in planetary materials.
 
-Here is some code that illustrates how we read values from the line sensors:
+I use Scanning Electron Microscopy (SEM) and Electron Microprobe Analysis (EMPA) to examine meteorite samples at a microscopic level. This helps me identify structural changes, mineral distribution, and deformation patterns caused by impacts. By studying these features, I work to understand the processes that shaped planetary bodies over time.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+This research contributes to NASA’s efforts to understand planetary formation and impact histories. The data I collect helps classify meteorite changes and supports missions studying asteroids, like samples returned from Bennu. Through this work, I’m learning more about planetary materials and their role in the evolution of the Solar System. I'm still in the early stages of research, scanning and mapping the meteorites before I can continue studying how shock affects the individual chondrals.
