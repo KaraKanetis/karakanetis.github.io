@@ -33,3 +33,5 @@ Each model takes around a month to complete and then an additional month for tes
 
 
 On occasion, I assist with the iCosmos team on various projects to help improve the program, mostly working with the Mission Operations Support Tool (MOST). (https://www.interstel.tech/)
+
+<p>For more information, visit <a href="https://www.interstel.tech/">this website</a>.</p>
