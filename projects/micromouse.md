@@ -24,3 +24,5 @@ This research contributes to NASA’s efforts to understand planetary formation 
         Here is an example of the maps we create for each meteorite sample. Each color corresponds to a certain element.
     </p>
 </div>
+
+<p>For more information, visit <a href="https://www.spacegrant.hawaii.edu/">this website</a>.</p>
