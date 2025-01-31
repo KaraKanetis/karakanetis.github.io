@@ -25,4 +25,4 @@ This research contributes to NASA’s efforts to understand planetary formation 
     </p>
 </div>
 
-<p>For more information, visit <a href="https://www.spacegrant.hawaii.edu/">this website</a>.</p>
+<p style="display: block;">For more information, visit <a href="https://www.spacegrant.hawaii.edu/">this website</a>.</p>
