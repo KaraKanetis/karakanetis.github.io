@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 'https://karakanetis.github.io/img/KlagarIMG.png'
+image: "/img/KlagarIMG.png"
 title: "Interstel"
 date: "2025-01-01"
 published: true
