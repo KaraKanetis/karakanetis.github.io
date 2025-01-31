@@ -45,3 +45,8 @@ def something():
 
 From this exercise, I know that asking smart questions leads to better help and a more positive experience on Stack Overflow and in day to day life/ class as well. If I take the time to structure my question clearly, I know I can get better responses. This experience made me more aware of how important communication is in programming.
 
+<p style="text-align: center; font-size: 0.8em;">
+Note: This essay was reviewed using AI tools for spelling and grammar corrections.
+</p>
+
+
