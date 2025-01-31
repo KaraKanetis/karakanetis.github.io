@@ -72,9 +72,14 @@
     {
       "organization": "Institute of Astronomy",
       "website": "https://www.ifa.hawaii.edu/",
+      "position": "Volunteer",
       "startDate": "2022-08-01",
       "endDate": "Present",
-      "summary": "Assists in random projects for the IfA from running their portable planetarium to working with kids"
+      "summary": "Assists in random projects for the IfA from running their portable planetarium to working with kids",
+      "highlights": [
+        "Planetarium",
+        "K-12 education"
+      ]
     },
     {
       "organization": "Student Activity and Program Fee Board",
