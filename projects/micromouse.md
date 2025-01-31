@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: /img/KlagarIMG.png
+image: img/vacay/rock.png
 title: "Micrometeorites"
 date: 2015
 published: true
@@ -13,9 +13,7 @@ summary: "My team developed a robotic mouse that won first place in the 2015 UH 
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/vacay/rock.png" class="img-thumbnail" >
 </div>
 
 
