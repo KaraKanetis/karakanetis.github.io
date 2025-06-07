@@ -4,7 +4,7 @@ type: project
 image: img/manoa logo.png
 title: "CubeSat Mission"
 date: 2025-06-06
-published: false
+published: true
 labels:
   - Cubesat
   - Student research
