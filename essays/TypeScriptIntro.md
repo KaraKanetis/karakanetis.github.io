@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "From Python to TypeScript: Learning TypeScript with Athletic Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-23
+date: 2025-06-06
 published: false
 labels:
   - Software Engineering
