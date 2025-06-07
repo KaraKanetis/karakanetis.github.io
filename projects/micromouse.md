@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/HSGC-Logo-01-300x300.png
 title: "Micrometeorites"
-date: 2025
+date: 2025-06-06
 published: true
 labels:
   - meteorites
