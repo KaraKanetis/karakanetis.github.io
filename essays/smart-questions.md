@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "Smart Questions, Good Answers"
 # All dates must be YYYY-MM-DD format!
-date: 2025-01-30
-published: false
+date: 2025-06-13
+published: true
 labels:
   - Questions
   - Answers
