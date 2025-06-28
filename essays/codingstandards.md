@@ -10,8 +10,6 @@ labels:
   - VSCode
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
-
 *What ESLint Taught Me About Coding, and Myself*
 
 Before this course, I had a basic understanding of what coding standards were, but I didn’t fully understand their purpose. I saw them mostly as formatting rules and decisions about indentation, naming conventions, or where to place brackets. After working with ESLint in VSCode, I’ve come to realize that coding standards are much more than visual preferences. They guide how we write code in a way that improves readability, reduces errors, and makes collaboration easier, especially in long term or team projects.
