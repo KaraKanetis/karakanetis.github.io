@@ -22,11 +22,11 @@ Over the week, I started to get the hang of it and the patterns. ESLint was help
 
 I also occasionally used AI tools like ChatGPT to help clarify confusing ESLint messages or troubleshoot issues I couldn’t solve on my own. I tried to use them in a way that supported my learning rather than replacing it. For example, I would ask for explanations of specific warnings or ask how to restructure a function in a cleaner way. This helped me better understand not only how to fix the issues, but why the fix improved the code.
 
-In terms of coding standards overall, I now see their value more clearly. They help the the code look nice, help with long term maintainability, catch potential errors early, and encourage developers to be more intentional in how they write. I’ve also noticedd it makes it easier to trace logic, reproduce results, and work with others effectively.
+In terms of coding standards overall, I now see their value more clearly. They help the the code look nice, help with long term maintainability, catch potential errors early, and encourage developers to be more intentional in how they write. I’ve also noticed it makes it easier to trace logic, reproduce results, and work with others effectively.
 
 ## Conclusion
 
-In conclusion, while my first week with ESLint was not easy, it was worthwhile. The process forced me to slow down and improve the quality of my code. I still have a lot to learn, but I feel more confident now knowing that these standards are not just rules to follow, but tools that support better development practices. As I continue coding—whether in coursework or in research—I plan to keep using what I’ve learned to write clearer, more maintainable code.
+In conclusion, while my first week with ESLint was not easy, it was worthwhile. The process forced me to slow down and improve the quality of my code. I still have a lot to learn, but I feel more confident now knowing that these standards support better development practices. As I continue coding, in coursework or in my research,I plan to keep using what I’ve learned to write clearer, more maintainable code.
 
 <small>This essay was written with the help from AI. I collaborated with AI to grammar-check and enhance the tone of this essay, but all the final content, voice, and personalization were reviewed and tailored by me.</small>
 
