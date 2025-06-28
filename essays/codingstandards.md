@@ -10,7 +10,7 @@ labels:
   - VSCode
 ---
 
-*What ESLint Taught Me About Coding, and Myself*
+##What ESLint Taught Me About Coding, and Myself*
 
 Before this course, I had a basic understanding of what coding standards were, but I didn’t fully understand their purpose. I saw them mostly as formatting rules and decisions about indentation, naming conventions, or where to place brackets. After working with ESLint in VSCode, I’ve come to realize that coding standards are much more than visual preferences. They guide how we write code in a way that improves readability, reduces errors, and makes collaboration easier, especially in long term or team projects.
 
@@ -27,4 +27,6 @@ In terms of coding standards overall, I now see their value more clearly. They h
 ## Conclusion
 
 In conclusion, while my first week with ESLint was not easy, it was worthwhile. The process forced me to slow down and improve the quality of my code. I still have a lot to learn, but I feel more confident now knowing that these standards are not just rules to follow, but tools that support better development practices. As I continue coding—whether in coursework or in research—I plan to keep using what I’ve learned to write clearer, more maintainable code.
+
+<small>This essay was written with the help from AI. I collaborated with AI to grammar-check and enhance the tone of this essay, but all the final content, voice, and personalization were reviewed and tailored by me.</small>
 
