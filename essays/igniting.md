@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title: "Balance with Bootstrap and CSS and the Convenience"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2025-07-06
+published: true
 labels:
-  - Software Engineering
-  - Learning
+  - Bootstrap
+  - CSS
+  - Python
 ---
 # Balance with Bootstrap and CSS and the Convenience
 
