@@ -24,7 +24,7 @@ This balanced approach—letting Bootstrap handle the base structure while I fin
 #Bootstrap Example
 
 To see what I mean, here’s a simple example from one of my practice projects. Let’s say I wanted to display some basic asteroid data alongside my observation notes. With plain HTML and CSS, I would need to write a flexbox layout, media queries for responsiveness, and a bunch of CSS rules. But with Bootstrap, I can create a clean, responsive two-column layout with just a few classes:
-
+```html
 <div class="container">
   <div class="row">
     <div class="col-md-6">
@@ -38,6 +38,7 @@ To see what I mean, here’s a simple example from one of my practice projects. 
     </div>
   </div>
 </div>
+```
 
 That’s it. No flexbox headaches, no media queries. Bootstrap automatically makes the layout responsive—on a small screen, these two columns will stack vertically.
 
