@@ -43,7 +43,7 @@ To see what I mean, here’s a simple example from one of my practice projects. 
 That’s it. No flexbox headaches, no media queries. Bootstrap automatically makes the layout responsive—on a small screen, these two columns will stack vertically.
 
 If I wanted to do the same thing using raw CSS, the code would be much longer and harder to maintain:
-
+```html
 <div class="container">
   <div class="left-column">
     <h2>Asteroid Data</h2>
@@ -55,7 +55,8 @@ If I wanted to do the same thing using raw CSS, the code would be much longer an
     <p>Visible in infrared wavelengths. Potential mission target.</p>
   </div>
 </div>
-
+```
+```html
 .container {
   display: flex;
   flex-wrap: wrap;
@@ -69,7 +70,7 @@ If I wanted to do the same thing using raw CSS, the code would be much longer an
     width: 100%;
   }
 }
-
+```
 Both work—but one takes a few lines of Bootstrap, and the other takes several lines of custom CSS. It’s the same reason I use libraries like NumPy in Python instead of coding every calculation from scratch.
 
 #Learning Curve
