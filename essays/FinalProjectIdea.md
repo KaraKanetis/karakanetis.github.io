@@ -35,7 +35,7 @@ StarMap UH is a personalized, browser based page for stargazing on Oʻahu. It in
   <li><strong>Live Sky Map:</strong> Real time, interactive map of stars and planets from UH Mānoa’s coordinates</li>
   <li><strong>Tonight’s Sky:</strong> Summary of visible celestial objects for the current evening</li>
   <li><strong>Event Calendar:</strong> Localized astronomy events like meteor showers, ISS flyovers, eclipses, and club nights</li>
-  <li><strong>Beginner Mode:</strong> Highlight 2–3 constellations per night with simple star-hopping instructions</li>
+  <li><strong>Beginner Mode:</strong> Highlight 2–3 constellations per night with simple star hopping instructions</li>
   <li><strong>Observation Log:</strong> Optional feature to track what you’ve seen and earn badges (e.g. "First Planet", "Shooting Star")</li>
 </ul>
 
