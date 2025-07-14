@@ -4,7 +4,7 @@ type: essay
 title: "Final Project Idea"
 # All dates must be YYYY-MM-DD format!
 date: 2025-07-13
-published: false
+published: true
 labels:
   - Astronomy
 ---
