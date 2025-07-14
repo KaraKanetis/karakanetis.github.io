@@ -17,7 +17,7 @@ labels:
 Living in Hawaiʻi gives us some of the clearest skies for stargazing, but many students miss out on astronomical events simply because they don't know what to look for or when. While there are planetarium apps out there, they’re often complex, overly technical, or not tailored to the local sky. 
 </p>
 <p>
-My project aims to solve this by creating <strong>StarMap UH</strong>—a simple, lightweight, and localized stargazing web app for UH Mānoa students and beginner skywatchers.
+My project aims to solve this by creating <strong>StarMap UH</strong> a easy to use, simple, and localized stargazing web app for UH Mānoa students and beginner skywatchers.
 </p>
 
 <h2>The Problem</h2>
