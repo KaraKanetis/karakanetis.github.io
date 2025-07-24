@@ -44,4 +44,4 @@ Understanding design patterns has honestly made me a better student and a better
 
 ---
 
-*This essay was written with the help of AI, which, ironically, probably uses a few design patterns itself.*
+*This essay was written with the help of AI, which probably uses a few design patterns itself.*
