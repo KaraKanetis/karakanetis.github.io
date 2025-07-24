@@ -15,7 +15,7 @@ labels:
 <figure style="margin-bottom: 2rem;">
   <img src="/img/constellations_map_equ1110112.png" alt="Constellation Map" style="width: 100%; height: auto; border-radius: 10px;" />
   <figcaption style="text-align: center; font-size: 0.9em; margin-top: 0.5rem; color: #666;">
-    The official constellation boundaries, mapped by the International Astronomical Union (IAU), may be invisible to the eye—but they organize how we navigate the sky. Similarly, design patterns guide software development in structured yet often unseen ways.
+    The official constellation boundaries, mapped by the International Astronomical Union (IAU), may be invisible to the eye but they organize how we navigate the sky. Similarly, design patterns guide software development in structured yet often unseen ways.
   </figcaption>
 </figure>
 
