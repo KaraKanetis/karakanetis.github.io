@@ -12,6 +12,8 @@ labels:
 
 # Patterns in the Stars: Applying Software Design to Astrophysics  
 
+<img src="../img/constellations_map_equ1110112.png" alt="Constellation Map" style="width: 100%; height: auto; border-radius: 10px; margin-bottom: 1.5rem;" />
+
 ## The Architecture of the Universe (and Software)
 
 When you look up at the night sky, you might notice stars, constellations, and galaxies, but not necessarily the invisible forces and principles that hold them together. Gravity, dark matter, and magnetohydrodynamics aren’t immediately obvious, but they’re what give the cosmos its structure and behavior. Similarly, in software design, there’s often an invisible logic patterns that keep systems running smoothly behind the scenes.
